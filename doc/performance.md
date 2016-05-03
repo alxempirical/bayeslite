@@ -37,7 +37,7 @@ Anyway, it calls `sample_utils.simple_predictive_sample`, which calls
 [current bayeslite]: https://github.com/probcomp/bayeslite/tree/9e09a45da56aff8fd0043c6e63f8c04f4900d582
 [current crosscat]: https://github.com/probcomp/crosscat/tree/4f75431b06978c77fc1c8e9c559af0f68101316d
 [`compile_simulate`]: https://github.com/probcomp/bayeslite/blob/55e8c3b59f3da480308f0b26ef39eb901dac1d09/src/compiler.py#L563
-[`execute_phrase`]: https://github.com/probcomp/bayeslite/blob/55e8c3b59f3da480308f0b26ef39eb901dac1d09/src/bql.py#L89
+[`execute_phrase`]: https://github.com/probcomp/bayeslite/blob/55e8c3b59f3da480308f0b26ef39eb901dac1d09/src/bql.py#L40
 [fix that]: https://github.com/empiricalsys/bayeslite/issues/9
 [`bayesdb_simulate`']: https://github.com/probcomp/bayeslite/blob/55e8c3b59f3da480308f0b26ef39eb901dac1d09/src/bqlfn.py#L362
 [crosscat's case]: https://github.com/probcomp/bayeslite/blob/55e8c3b59f3da480308f0b26ef39eb901dac1d09/src/metamodels/crosscat.py#L1117
